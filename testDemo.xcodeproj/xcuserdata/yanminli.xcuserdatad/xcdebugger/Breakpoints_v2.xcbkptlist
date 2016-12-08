@@ -94,9 +94,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "229"
-            endingLineNumber = "229"
-            landmarkName = "-ImgViewShadowOpacity:toVal:duration:"
-            landmarkType = "7">
+            endingLineNumber = "229">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -110,9 +108,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "191"
-            endingLineNumber = "191"
-            landmarkName = "-buttonclick:"
-            landmarkType = "7">
+            endingLineNumber = "191">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

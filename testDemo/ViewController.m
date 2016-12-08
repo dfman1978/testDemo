@@ -37,7 +37,7 @@ NSString * str1 = @"asfasfa阿斯顿发生大发撒放大离开家撒旦法按�
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
-         
+    NSLog(@"add new code!");
     
     
     
