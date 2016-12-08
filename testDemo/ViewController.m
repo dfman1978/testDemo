@@ -38,6 +38,8 @@ NSString * str1 = @"asfasfa阿斯顿发生大发撒放大离开家撒旦法按�
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"add new code!");
+    NSString *str = @"dfman1978dlskfjdslfjd;asjfsda;fjsdafjdsa";
+    NSLog(@"str is %@",str);
     
     
     
